@@ -3,7 +3,7 @@ from datetime import datetime
 import time
 
 # GitHub Personal Access Token (istəyə bağlıdır, amma tövsiyə olunur)
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "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"
 
 HEADERS = {
     "Authorization": f"token {GITHUB_TOKEN}",
